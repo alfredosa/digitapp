@@ -1,4 +1,4 @@
-absl-py==0.15.0
+absl-py==0.4
 astunparse==1.6.3
 bazel==0.0.0.20200723
 cachetools==5.2.0
